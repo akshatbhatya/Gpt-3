@@ -1,14 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
+import { Article, Brand, Cta, Features, Navbar } from "./Components";
+
+
+
+
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-    <h1>chat gpt</h1>
+      <h1>chat gpt</h1>
+      <Article/>
+
     </>
   )
 }
