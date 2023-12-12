@@ -1,6 +1,7 @@
 import './App.css'
 
-import { Article, Brand, Cta, Features, Navbar } from "./Components";
+import { Article, Brand, Cta, Feature, Navbar } from "./Components";
+import { Blog, Features, Header, Footer, Possibility, WhatGpt3 } from './Components/Container'
 
 
 
@@ -10,8 +11,20 @@ function App() {
 
   return (
     <>
-      <h1>chat gpt</h1>
-      <Article/>
+      <div className='gradient-bg'>
+        <Navbar />
+        <Header />
+      </div>
+      <div>
+        <Brand />
+        <WhatGpt3 />
+        <Feature />
+        <Possibility />
+        <Blog />
+        <Cta />
+        <Footer />
+      </div>
+      <Article />
 
     </>
   )
