@@ -27,7 +27,7 @@
 
 .whatgpt-3-section {
     margin: 0px auto;
-    width: 1170px;
+    width: 1270px;
     height: 695px;
     flex-shrink: 0;
 }
@@ -60,4 +60,9 @@
     /* 187.5% */
     cursor: pointer;
 
+}
+
+.gpt-3_container{
+    display: flex;
+    gap: 20px;
 }

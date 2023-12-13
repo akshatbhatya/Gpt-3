@@ -8,8 +8,8 @@
 }
 
 .para p {
-    width: 731px;
-    height: 92px;
+    /* width: 731px;
+    height: 92px; */
     flex-shrink: 0;
     color: #81AFDD;
     font-family: Manrope;
@@ -27,4 +27,12 @@
     font-weight: 800;
     line-height: 75px;
     letter-spacing: -0.96px;
+}
+.feature-container{
+    /* display: flex;
+    justify-content: space-between; */
+}
+
+.ruler{
+    display: inline-block;
 }

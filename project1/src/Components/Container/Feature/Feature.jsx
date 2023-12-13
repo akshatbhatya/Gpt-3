@@ -5,16 +5,20 @@ function Feature({ title, para }) {
   return (
 
     <>
-      <div>
+      {/* <span className='ruler'>
         <hr className='rulerBar' />
-      </div>
+      </span> */}
      
+     <div className="feature-container">
+
       <div className="title">
+      <hr className='rulerBar' />
         <h1>{title}</h1>
       </div>
       <div className="para">
         <p>{para}</p>
       </div>
+     </div>
     </>
 
 

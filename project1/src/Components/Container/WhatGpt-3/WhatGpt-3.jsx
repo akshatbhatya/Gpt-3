@@ -14,6 +14,14 @@ function WhatGpt3() {
         <h1 className='gradient_text'>The possibilities are beyond your imagination</h1>
         <p>Explore The Library</p>
       </div>
+
+      <div className="gpt-3_container">
+        <Feature title={"Chatbots"} para={"We so opinion friends me message as delight. Whole front do of plate heard oh ought. "} />
+
+        <Feature title={"Knowledgebase"} para={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"} />
+
+        <Feature title={"Education"} para={"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"} />
+      </div>
     </div>
   )
 }
