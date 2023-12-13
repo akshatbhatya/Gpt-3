@@ -1,0 +1,30 @@
+.rulerBar {
+    width: 38px;
+    height: 3px;
+    flex-shrink: 0;
+    background: linear-gradient(103deg, #AE67FA -13.86%, #F49867 99.55%), #FFF;
+    border: none;
+    outline: none;
+}
+
+.para p {
+    width: 731px;
+    height: 92px;
+    flex-shrink: 0;
+    color: #81AFDD;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.title h1 {
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -0.96px;
+}
