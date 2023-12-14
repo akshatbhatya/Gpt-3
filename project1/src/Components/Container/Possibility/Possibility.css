@@ -1,0 +1,58 @@
+.possibility_parent {
+    width: 1270px;
+    margin: 150px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.possibility_content{
+    padding-top: 170px;
+}
+
+.heading h1{
+    width: 426px;
+}
+
+.possibility_image {
+    width: 50%;
+}
+
+.possibility_image img {
+    width: 500px;
+}
+
+.possibility_content {
+    width: 50%;
+}
+
+.para1 p {
+    color: #71E5FF;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 187.5% */
+}
+
+.para3 p {
+    color: #81AFDD;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 187.5% */
+    width: 479px;
+}
+
+.para4 p {
+    color: #FF8A71;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 187.5% */
+}
