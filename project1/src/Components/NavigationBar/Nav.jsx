@@ -11,10 +11,11 @@ const Nav = () => {
             <img src={Logo} alt="logo" />
           </div>
           <div className="navbar-links-tags">
-            <a href="">home</a>
-            <a href="">home</a>
-            <a href="">home</a>
-            <a href="">home</a>
+            <a href="#home">Home</a>
+            <a href="#WhatisGPT?">What is GPT?</a>
+            <a href="#OpenAI">Open AI</a>
+            <a href="#CaseStudies">Case Studies</a>
+            <a href="#Library">Library</a>
           </div>
 
           <div className='navbar-sign'>

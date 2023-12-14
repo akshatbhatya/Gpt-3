@@ -5,7 +5,7 @@ import Feature from "../Container/Feature/Feature"
 
 const Features = () => {
   return (
-    <div className='features-container'>
+    <div className='features-container' id='OpenAI'>
       <div className="content_left">
 
       <h1 className='gradient_text'>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>

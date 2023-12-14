@@ -5,7 +5,7 @@ import PossibilitiesPic from "../../../assets/Possibility.png"
 
 function Possibility() {
   return (
-    <div className='possibility_parent'>
+    <div className='possibility_parent' id='CaseStudies'>
       <div className="possibility_image">
         <img src={PossibilitiesPic} alt="PossibilitiesPic" />
       </div>

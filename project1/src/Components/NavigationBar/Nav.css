@@ -29,7 +29,11 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    gap: 20px
+    gap: 20px;
+    float: right;
+    position: relative;
+    left: 618px;
+    cursor: pointer;
 }
 
 p,

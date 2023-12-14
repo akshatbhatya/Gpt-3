@@ -7,7 +7,7 @@ import AiPhoto from "../../../assets/ai.png"
 function Header() {
   return (
     <>
-    <div className='header-of-all-content'>
+    <div className='header-of-all-content' id='home'>
 
       <div className='header_content'>
         <h1 className='gradient_text'>Let’s Build Something
