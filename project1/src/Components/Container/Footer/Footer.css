@@ -1,0 +1,84 @@
+.gpt3_fotter_headding h1 {
+    width: 821px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 75px;
+    /* 120.968% */
+    letter-spacing: -2.48px;
+}
+
+.gpt_footer_btn {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.gpt_footer_btn button {
+    color: white;
+    background: none;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 218px;
+    height: 65px;
+    flex-shrink: 0;
+    border: 1px solid #FFF;
+    cursor: pointer;
+}
+
+.footer_links {
+    width: 1270px;
+    margin: 100px auto;
+}
+
+.footer_links_logo img {
+    width: 118px;
+    height: 30px;
+    flex-shrink: 0;
+
+
+}
+
+.footer_links_logo p {
+    width: 168px;
+    color: #FFF;
+    font-family: Gilroy-Medium;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.footer_links {
+    display: flex;
+    justify-content:center;
+    gap: 248px;
+}
+
+.footer_links_div h4 {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.footer_links_div  p  {
+    color: #FFF;
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    cursor: pointer;
+}
