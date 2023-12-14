@@ -20,8 +20,8 @@ function App() {
         <WhatGpt3 />
         <Feature />
         <Possibility />
-        <Blog />
         <Cta />
+        <Blog />
         <Footer />
       </div>
 
