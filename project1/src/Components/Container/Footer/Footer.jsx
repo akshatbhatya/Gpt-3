@@ -39,8 +39,8 @@ function Footer() {
         <div className="footer_links_div">
           <h4>Get in touch</h4>
           <p>Amritsar , Punjab 143001</p>
-          <p>7814720746</p>
-          <p>akshatbhatya@gmail.com</p>
+          <a href='tel:7814720746'>7814720746</a>
+          <a href='mailto:akshatbhatya@gmail.com'>akshatbhatya@gmail.com</a>
         </div>
       </div>
     </div>
